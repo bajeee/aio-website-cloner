@@ -2,6 +2,18 @@
 
 Capabilities have one owner. Do not install the upstream instruction collections beside this package or load overlapping manuals wholesale. Use an existing compatible runtime; install a missing runtime only when needed and authorized, and pin the version used. This package does not include upstream binaries, browser distributions or native analysis engines.
 
+## Delegation and model routing
+
+Use one lead agent to own the clone from scope through acceptance. If the host supports per-agent model selection, choose by task capability and current availability rather than assigning an agent to every phase:
+
+- The lead handles browser operation, visual decisions, architecture, code integration and the final acceptance call. On current Codex model menus, GPT-6.1 Terra is a good efficient default for visual/browser work and scoped implementation; use GPT-6.1 Sol for coding problems that remain unusually complex. These model names are examples and may change.
+- Delegate focused extraction or classification to a more efficient model, such as Luna where available: normalize a supplied route list, map captured assets, group link findings or summarize completed check evidence. Give it explicit inputs, output format and a no-overlapping-write boundary.
+- Prefer scripts for hashes, duplicate detection, schema validation, URL checks and reports. A model should not re-do deterministic work.
+- The lead reviews delegated results against raw evidence before they affect implementation. The built-in checker runs regardless of delegation. A separate visual/code reviewer is optional for high-risk or unresolved differences; it is not a substitute for route coverage and evidence.
+- Keep delegation bounded, normally one active helper at a time. Parallelize only independent work with clear ownership. Do not send duplicate browsers/crawlers to the same source or split tightly coupled implementation files across agents.
+
+Delegation may reduce elapsed time, but agents draw from the same account/workspace allowance where applicable and add handoff/integration work. It is not guaranteed to reduce total usage or improve quality. Do not lower the clone's coverage or acceptance criteria to save resources; reduce repeated analysis and use automation for mechanical checks instead.
+
 | Capability owner | Integration | When to use |
 | --- | --- | --- |
 | Workflow and evidence | This package's consolidated cloning procedure, informed by JCodesMore's clone-website workflow and webEmbedding's structured capture | Every clone |
